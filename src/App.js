@@ -6,7 +6,7 @@ import Register from './components/register';
 function App() {
   return (
     <div className="App">
-      <Dashboard/>
+      <Login/>
     </div>
   );
 }
